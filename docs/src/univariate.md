@@ -93,6 +93,7 @@ rand!(::AbstractRNG, ::UnivariateDistribution, ::AbstractArray)
 
 ```@docs
 Arcsine
+AsymmetricLaplace
 Beta
 BetaPrime
 Biweight
